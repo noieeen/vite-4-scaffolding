@@ -23,3 +23,5 @@ Scaffolding Vite
 - @ directory
 - @vercel/analytics
 - @supabase/supabase-js
+- axios
+- i18n
